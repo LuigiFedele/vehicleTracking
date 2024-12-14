@@ -13,6 +13,14 @@ Repositório do NestJS
 3. Ative a API do Places e Directions do Google Maps.
 4. Guarde a chave de API gerada.
 
+## Entre na pasta
+
+Entre na pasta `nest-backend` através do comando:
+
+```
+cd nest-backend
+```
+
 ## Rodar a aplicação
 
 Gere o arquivo `.env` através do comando:
